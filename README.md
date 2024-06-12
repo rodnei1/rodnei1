@@ -1,6 +1,6 @@
 ## Olá, 👋
 
-<p>Eu sou o Rodnei Júnior sou um Programador Front-End, comecei meus estudos á 1 ano neste período fui aprendendo e pegando algumas novas expêriencia em aprender a desenvolver alguns projetos. <p/>
+<p>Eu sou o Rodnei Júnior sou um Programador Front-End, comecei meus estudos á 1 ano neste período fui aprendendo e pegando algumas novas expêriencias em aprender a desenvolver alguns projetos. <p/>
 <br>
 <h3>Conecte-me</h3>
 <a href="https://www.facebook.com/rodiney.junior.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="logo-facebook" /></a>
